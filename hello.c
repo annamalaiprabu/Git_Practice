@@ -3,6 +3,6 @@
 int main(){
     printf("Hello World!");
     printf("I am a noob!");
-    printf("This is amazing!");
+    printf("This is amazing stuff!");
     return 0;
 }
